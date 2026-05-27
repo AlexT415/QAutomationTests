@@ -110,13 +110,9 @@ def test_automation_3():
 def test_automation_4():
 
     # Step 1: Navigate to https://the-internet.herokuapp.com/add_remove_elements/.
-    #
     # Step 2: Click the "Add Element" button.
-    #
     #     Expected Result: A "Delete" button appears on the page.
-    #
     # Step 3: Click the newly created "Delete" button.
-    #
     #     Expected Result: The "Delete" button disappears, leaving 0 delete buttons on the page.
 
     print("Running test automation 4 - Heroku Add/Remove Element")
