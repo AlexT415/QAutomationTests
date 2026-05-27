@@ -11,7 +11,7 @@ def setup(url):
     driver.get(url)
 
     return driver
-#
+
 def test_automation_0():
 
     # Step 1: Navigate to https://www.wikipedia.org/.

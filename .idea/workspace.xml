@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cc92274-9da2-4fa6-bf43-7e483f9f4b8a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QAutomationTest" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/7_tests_automation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/7_tests_automation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,12 +28,12 @@
     &quot;assignee&quot;: &quot;AlexT415&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/AlexT415/QAutomationTest.git&quot;,
-    &quot;accountId&quot;: &quot;ab952de9-22ae-467d-a9c8-9494c5fc939f&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AlexT415/QAutomationTests.git",
+    "accountId": "ab952de9-22ae-467d-a9c8-9494c5fc939f"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -47,6 +44,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python tests.Python tests for 7_tests_automation.test_automation_3.executor": "Run",
     "Python tests.Python tests for 7_tests_automation.test_automation_7.executor": "Run",
     "Python tests.Python tests for tests_automation_actions.test_automation_6.executor": "Run",
@@ -56,7 +54,8 @@
     "Python tests.Python tests in tests_old.py.executor": "Run",
     "Python.automation_webpages.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "fresh-main",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/al3x_/PycharmProjects/QAutomation 2026"
   }
 }]]></component>
