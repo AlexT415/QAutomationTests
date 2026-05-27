@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cc92274-9da2-4fa6-bf43-7e483f9f4b8a" name="Changes" comment="" />
+    <list default="true" id="3cc92274-9da2-4fa6-bf43-7e483f9f4b8a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QAutomationTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/7_tests_automation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/7_tests_automation.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,25 +45,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for 7_tests_automation.test_automation_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for 7_tests_automation.test_automation_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for tests_automation_actions.test_automation_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in 7_tests_automation.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in tests_automation_actions.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in tests_automation_latest.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in tests_old.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.automation_webpages.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/al3x_/PycharmProjects/QAutomation 2026&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for 7_tests_automation.test_automation_3.executor": "Run",
+    "Python tests.Python tests for 7_tests_automation.test_automation_7.executor": "Run",
+    "Python tests.Python tests for tests_automation_actions.test_automation_6.executor": "Run",
+    "Python tests.Python tests in 7_tests_automation.py.executor": "Run",
+    "Python tests.Python tests in tests_automation_actions.py.executor": "Run",
+    "Python tests.Python tests in tests_automation_latest.py.executor": "Run",
+    "Python tests.Python tests in tests_old.py.executor": "Run",
+    "Python.automation_webpages.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "fresh-main",
+    "last_opened_file_path": "C:/Users/al3x_/PycharmProjects/QAutomation 2026"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\al3x_\PycharmProjects\QAutomation 2026" />
       <recent name="C:\Users\al3x_\PycharmProjects\QAutomation 2026\.github\workflows" />
       <recent name="C:\Users\al3x_\PycharmProjects\QAutomation 2026\Tests" />
+      <recent name="C:\Users\al3x_\PycharmProjects\QAutomation 2026\.github" />
     </key>
   </component>
   <component name="RunManager" selected="Python tests.Python tests for 7_tests_automation.test_automation_3">
