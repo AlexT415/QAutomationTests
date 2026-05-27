@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cc92274-9da2-4fa6-bf43-7e483f9f4b8a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AlexT415&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AlexT415/QAutomationTest.git&quot;,
+    &quot;accountId&quot;: &quot;ab952de9-22ae-467d-a9c8-9494c5fc939f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3EGhgNOo0MrxGL3Kr18q4WhhBU0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for 7_tests_automation.test_automation_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for 7_tests_automation.test_automation_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests_automation_actions.test_automation_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in 7_tests_automation.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in tests_automation_actions.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in tests_automation_latest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in tests_old.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.automation_webpages.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/al3x_/PycharmProjects/QAutomation 2026&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\al3x_\PycharmProjects\QAutomation 2026\.github\workflows" />
+      <recent name="C:\Users\al3x_\PycharmProjects\QAutomation 2026\Tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for 7_tests_automation.test_automation_3">
+    <configuration name="Python tests for 7_tests_automation.test_automation_3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="QAutomation 2026" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;7_tests_automation.test_automation_3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for 7_tests_automation.test_automation_7" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="QAutomation 2026" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;7_tests_automation.test_automation_7&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for 7_tests_automation.test_automation_7" />
+        <item itemvalue="Python tests.Python tests for 7_tests_automation.test_automation_3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cc92274-9da2-4fa6-bf43-7e483f9f4b8a" name="Changes" comment="" />
+      <created>1779810923688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779810923688</updated>
+    </task>
+    <servers />
+  </component>
+</project>
